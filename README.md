@@ -9,7 +9,7 @@ A central server that manages all connections
 Multiple clients that users run to join the chat
 
 ## Demo Screenshot
-![Server demo](serverscreenshot.png)
+[Server demo](serverscreenshot.png)
 
 [client demo](clientscreenshot.png)
 
