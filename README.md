@@ -9,13 +9,10 @@ A central server that manages all connections
 Multiple clients that users run to join the chat
 
 ## Demo Screenshot
-Server demo
+![Server demo](serverscreenshot.png)
 
-[]
+[client demo](clientscreenshot.png)
 
-client demo
-
-[]
 ## How to Run
 
 1. Save files - chat_server.py and chat_client.py
